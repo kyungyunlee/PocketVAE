@@ -1,0 +1,293 @@
+track_path,split0,split1,split2,split3,split4
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F1 S.mid,valid,train,test,train,train
+Mega_Pack_GM/Variety Pack GM/Blues/180 Uptempo Blues.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F3 M.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F2 S.mid,train,valid,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F1 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F3 M.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F2 S.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F3 M.mid,train,valid,train,valid,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/075 Blues 01 A.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F6 L.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A F3 M.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F1 S.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F1 S.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F4 M.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F2 S.mid,train,train,train,train,valid
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Grooves/Blues A Stick 4.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F5 M.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F1 S.mid,valid,train,train,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F6 L.mid,test,test,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Outros/Blues Outro 6.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Intros/Blues Count-In Intro 1.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F5 L.mid,test,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F3 M.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F5 M.mid,train,test,train,train,valid
+Mega_Pack_GM/Country Outlaws GM/200 Workin Blues/Full Song/Workin Blues.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F3 M.mid,train,train,train,test,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F4 M.mid,train,train,test,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Hat Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F5 M.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F2 S.mid,train,valid,train,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F2 S.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba C/Blues Rumba C F1 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Break.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A Break.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F1 S.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba B/Blues Rumba B F2 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F2 S.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Grooves/Blues Comping B2.mid,valid,valid,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F4 M.mid,test,train,train,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F5 M.mid,train,test,train,train,test
+Mega_Pack_GM/Blues GM/Full Songs/064 Three AM Blues.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F4 M.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F5 L.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F1 S.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/067 Blues 02 B.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Intros/Blues Count-In Intro 2.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F1 S.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Outros/Blues Outro 1.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Ride Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Outros/Blues Outro 5.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F4 M.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F1 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F5 M.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F5 L.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F2 S.mid,test,train,valid,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F5 M.mid,valid,valid,train,train,test
+Mega_Pack_GM/Funk HH RB GM/Bonus/067 Blues 02.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F3 M.mid,valid,train,test,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F5 M.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F1 S.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F6 L.mid,train,valid,valid,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Ride Intro.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Hat Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F1 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F3 M.mid,train,train,train,test,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Ending.mid,train,valid,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F6 L.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F1 S.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F4 M.mid,test,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Blues/078 Slow Blues Stick.mid,train,valid,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F5 L.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01c.mid,train,train,train,valid,train
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F6 L.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F4 M.mid,train,train,test,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F5 L.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F2 S.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F5 M.mid,test,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba C/Blues Rumba C F6 M.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F1 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F4 M.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F2 S.mid,valid,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Break.mid,train,valid,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F6 L.mid,train,valid,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Grooves/Blues Comping B3.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Intros/Blues Count-In Intro 4.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F6 L.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F1 S.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F1 S.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F2 S.mid,valid,train,train,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F3 M.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F1 S.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F1 S.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Grooves/Blues Comping B ALT.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03c.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F3 M.mid,train,test,test,valid,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04 Ride.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F6 L.mid,test,test,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F3 M.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F3 M.mid,valid,train,valid,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F4 M.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F2 S.mid,train,test,valid,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F5 L.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F5 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F2 S.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba B/Blues Rumba B F6 M.mid,train,train,test,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F3 M.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Ride Intro.mid,train,valid,train,test,train
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01b.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F3 M.mid,train,test,train,train,train
+Mega_Pack_GM/Variety Pack GM/Blues/180 Uptempo Blues Ride.mid,train,test,train,valid,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba C/Blues Rumba C F5 M.mid,train,train,test,test,train
+Mega_Pack_GM/Variety Pack GM/Blues/078 Slow Blues Ride.mid,train,valid,valid,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F1 S.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F2 S.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F4 M.mid,train,test,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F3 M.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Short Intro.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F1 S.mid,train,test,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F2 S.mid,test,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/075 Blues 01 B.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F3 M.mid,valid,train,train,train,test
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Intros/Blues Count-In Intro 3.mid,train,train,train,test,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A F6 S.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02a.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Hat Intro.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F1 S.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03a.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F4 M.mid,train,valid,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F5 M.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Break.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F1 S.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F1 S.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F6 L.mid,train,test,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Ride Intro.mid,valid,test,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Break.mid,train,train,valid,train,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/075 Blues 01.mid,valid,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Ride Intro.mid,train,train,valid,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F6 L.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F5 M.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F4 M.mid,train,train,train,train,test
+Mega_Pack_GM/Variety Pack GM/Blues/128 Blues Rumba.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Ending.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F6 L.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F1 S.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F4 M.mid,train,train,test,valid,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F6 L.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F1 S.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F6 L.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F1 S.mid,train,test,valid,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F4 M.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02c.mid,train,train,test,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F5 M.mid,test,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04b.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats Stick F1 S.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F3 M.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F2 S.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F1 S.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F6 L.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F4 M.mid,train,train,valid,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F4 M.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Intros/Blues 4-Bar Intro.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F4 M.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F1 S.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A Intro.mid,valid,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba B/Blues Rumba B F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/075 Blues 01 C.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Ending.mid,train,train,test,valid,train
+Mega_Pack_GM/Blues GM/Full Songs/094 Play the Blues.mid,train,train,train,test,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride Stick F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F2 S.mid,valid,valid,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Hat Intro.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F6 L.mid,valid,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba C/Blues Rumba C F2 M.mid,test,train,valid,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F5 M.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A F1 M.mid,train,test,valid,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F6 L.mid,train,train,train,valid,valid
+Mega_Pack_GM/Jazz Buddy GM/200 Jump Swing/Outros/Jump Extended Bluesy Ending.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F3 M.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F1 S.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Outros/Blues Outro 2.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Ending.mid,train,test,train,valid,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04a.mid,valid,valid,train,train,train
+Mega_Pack_GM/Variety Pack GM/Blues/078 Slow Blues.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03b.mid,valid,train,train,test,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba B/Blues Rumba B F3 M.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Ending.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F2 S.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Outros/Blues Outro 4.mid,test,train,train,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba C/Blues Rumba C F4 M.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F6 L.mid,train,train,test,test,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Short Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Blues Classics GM/Extended Tracks/180 UpTempo Blues.mid,train,test,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F2 S.mid,valid,train,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F6 L.mid,valid,train,test,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A F4 M.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F3 M.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Outros/Blues Outro 3.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F6 L.mid,train,test,valid,train,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F2 S.mid,train,train,train,valid,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Hat Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F4 M.mid,train,train,valid,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F3 M.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F4 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Break.mid,train,train,valid,train,train
+Mega_Pack_GM/Ballads GM/Song 11 070 Straight Blues/Full Song/070 Straight Blues.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Break.mid,train,train,test,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats Stick F4 M.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A F5 L.mid,test,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F2 S.mid,test,train,test,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride Stick F6 L.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride Stick F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba B/Blues Rumba B F1 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F5 M.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F3 M.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Ride Grooves/Slow Blues C Ride F6 L.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F4 M.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride Stick F4 M.mid,valid,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/080 Slow Blues C/Hat Grooves/Slow Blues C Hats F1 S.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Preview Files/Bluesy Jazz.mid,train,train,train,train,test
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Slow Blues A2 Bonus/Slow Blues A2 Hat Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F4 M.mid,train,valid,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A Ending.mid,train,train,train,test,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba A/Blues Rumba A F2 M.mid,test,test,test,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F3 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F4 M.mid,train,test,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Ride Grooves/Slow Blues B Ride F1 S.mid,train,valid,train,train,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/067 Blues 02 C.mid,valid,valid,valid,valid,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F2 S.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/082 Slow Blues D/Slow Blues D Bonus/Slow Blues D Ride Intro.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/Bonus/067 Blues 02 A.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats F5 M.mid,train,train,train,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba C/Blues Rumba C F3 M.mid,valid,train,valid,test,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Slow Blues A1 Bonus/Slow Blues A1 Ending.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues B/Hat Grooves/Slow Blues B Hats Stick F6 L.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/078 Slow Blues A/Ride Grooves/Slow Blues A Ride F3 M.mid,train,valid,test,train,test
+Mega_Pack_GM/Jazz Buddy GM/140 Blues/Grooves/Blues Comping B1.mid,train,train,valid,test,test
+Mega_Pack_GM/Blues GM/8-Bar Blues/128 Blues Rumba B/Blues Rumba B F5 M.mid,train,train,train,train,train
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Ride Grooves/Slow Blues D Ride F5 L.mid,train,train,train,train,valid
+Mega_Pack_GM/Blues GM/12-Bar Blues/078 Slow Blues A/Hat Grooves/Slow Blues A Hats Stick F3 M.mid,test,train,train,train,valid
+Mega_Pack_GM/Blues GM/8-Bar Blues/082 Slow Blues D/Hat Grooves/Slow Blues D Hats F1 S.mid,train,train,train,train,train

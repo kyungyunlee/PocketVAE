@@ -1,0 +1,64 @@
+defaults:
+  - model: vqvae # vae or vqvae
+
+# model name used for saving models
+model_name: ???
+
+# wandb config 
+wandb_project_name : "drum_generation"
+wandb_entity : "kyungyunlee"
+
+# cd datasets
+gmidi_dir: groove
+gmonkee_dir: Mega_Pack_GM
+bfd_dir: bfd_midi_original
+reddit_dir : reddit_drums
+data_split_dir: data_splits 
+preprocess_dir: data_preprocessed
+generation_dir: data_generated
+
+# Data params
+n_data_splits: 5 # number of train/valid/test splits for cross validation. used in datasets/prepare_data.py
+split_number: 0 # which split to use (use it as multirun for cross validation)
+resolution: 4 # 16th note
+beats_per_bar : 4 # 4/4 meter 
+bar_length: 2
+
+# Train params 
+gpus: 0
+batch_size: 64
+num_epochs: 500 
+lr: 0.0002
+lr_decay_rate: 0.5
+model_savepath: trained_models # under root 
+
+genre_list: 
+  - electronic
+  - funk
+  - rock
+  - jazz
+  - hiphop
+  - blues
+
+# Training options
+random_mask: True
+reduce_skel: True
+
+use_genre_cond: False # use genre condition
+use_vel_cond: False # use velocity contour condition 
+use_time_cond: False
+
+
+use_cyclic_weight: False
+
+# Don't change these : these are changed automatically in run_*.py scripts
+genre_cond_dim: 0 
+note_cond_dim: 0
+vel_cond_dim : 0
+time_cond_dim: 0
+inst_cond_dim : 0 
+
+# hydra output dir
+hydra:
+  run:  
+    dir: outputs/${model.model_type}/${model_name}

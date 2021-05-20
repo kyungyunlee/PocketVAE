@@ -1,0 +1,17 @@
+# @package _group_
+model_type: vae
+
+# Note model  
+note_hidden_dim: 256
+note_z_dim : 64
+
+# Vel, microtiming model 
+vel_mt_hidden_dim : 256
+vel_mt_z_dim : 64
+
+# Skeleton encoding model 
+skel_hidden_dim: 128
+skel_encode_dim : 32
+
+num_layers : 1
+dropout: 0.5

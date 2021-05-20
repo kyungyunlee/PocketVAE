@@ -1,0 +1,156 @@
+track_path,split0,split1,split2,split3,split4
+Mega_Pack_GM/Jazz GM/Preview Files/Linear Jazz.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 01.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 02c.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/186 Bossa Swing/Grooves/Jazz Bossa B.mid,test,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/120 Jazz Rock 03c.mid,train,valid,valid,train,test
+Mega_Pack_GM/Electronic GM/Breakbeat/135 Jazzy 03 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/100 Jazzy 02c.mid,test,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 02a.mid,train,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 01c.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 01.mid,train,train,train,valid,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Ride 42TF 1 8-Bar.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 01c.mid,train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Jazz/186 Jazz Bossa.mid,train,test,train,test,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 02d.mid,test,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/170 Jazz Rock Groove 05.mid,test,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 02.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz GM/Preview Files/Funky Jazz.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/100 Soft Jazz 01.mid,train,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Preview Files/Latin Jazz.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04a.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/122 Soft Jazz 04c.mid,train,train,train,test,train
+Mega_Pack_GM/Jazz Buddy GM/116 Afro Jazz/Grooves/Afro-Jazz A2 Ride.mid,train,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 2/170 Jazz Hat 42TF 2 Crash.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 03 Congas 2.mid,train,train,test,test,train
+Mega_Pack_GM/Electronic GM/Breakbeat/135 Jazzy 03.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/135 Jazzy 03c.mid,train,train,train,valid,train
+Mega_Pack_GM/Jazz GM/Fusion/120 Jazz Rock 03.mid,train,test,train,train,valid
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 03.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Ride 42TF 1.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 02c.mid,valid,train,train,test,train
+Mega_Pack_GM/Electronic GM/Breakbeat/100 Jazzy 02b.mid,test,train,train,train,test
+Mega_Pack_GM/Electronic GM/Breakbeat/086 Jazzy 01b.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03b.mid,train,test,train,train,train
+Mega_Pack_GM/Variety Pack GM/Jazz/068 Jazz Ballad A Stick on 4.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 02.mid,train,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock Groove 04.mid,train,valid,valid,train,test
+Mega_Pack_GM/Jazz GM/Fast Jazz/200 Fast Jazz Open Hats 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Hat 42TF 1 B.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02a.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 02c.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 01c.mid,test,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 03 Congas.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 03c.mid,train,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03a.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 01c.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/116 Afro Jazz/Grooves/Afro-Jazz A Ride.mid,train,valid,train,train,train
+Mega_Pack_GM/Variety Pack GM/Jazz/068 Jazz Ballad B Stick BB.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 02.mid,train,valid,test,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 02.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Intros/120 Jazz Intro 01.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/100 Soft Jazz 01b.mid,valid,test,train,train,train
+Mega_Pack_GM/Jazz GM/Preview Files/Fast Jazz.mid,train,train,train,test,test
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Ride 42TF 1 B.mid,train,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 02a.mid,train,train,train,valid,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 03a.mid,test,train,train,valid,train
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/086 Jazzy 01a.mid,train,valid,train,train,test
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01a.mid,train,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 03b.mid,train,test,test,valid,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 02a.mid,train,train,train,valid,valid
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 03b.mid,train,train,train,valid,train
+Mega_Pack_GM/Jazz GM/Intros/120 Jazz Intro 09.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/100 Jazzy 02 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/122 Soft Jazz 04.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 01.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/100 Jazzy 02a.mid,test,train,train,train,test
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 02c.mid,train,train,train,valid,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Hat 42TF 1 A.mid,train,train,valid,valid,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Ride 42TF 1 Crash.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/130 Jazz Rock Groove 07.mid,valid,train,valid,train,valid
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02b.mid,test,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 01a.mid,valid,train,test,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/086 Jazzy 01 8-Bar.mid,train,train,train,valid,test
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 02c.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock Groove 02.mid,train,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 01b.mid,train,train,valid,train,valid
+Mega_Pack_GM/Jazz GM/Funky/120 Funky Jazz 03c.mid,valid,train,train,test,valid
+Mega_Pack_GM/Jazz GM/Fast Jazz/200 Fast Jazz Open Hats 01b.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 03b.mid,train,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 03 Congas 2.mid,train,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Preview Files/Loud Jazz.mid,train,test,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 2/170 Jazz Ride 42TF 2.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Funky/120 Funky Jazz 03a.mid,valid,train,train,valid,train
+Mega_Pack_GM/Variety Pack GM/Jazz/135 Jazz 2-Feel Hat Time.mid,train,valid,valid,test,train
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 02.mid,train,train,test,test,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock Groove 03.mid,train,train,train,valid,valid
+Mega_Pack_GM/Jazz GM/Fusion/170 Jazz Rock Groove 06.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 03.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/122 Soft Jazz 04b.mid,test,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Bluesy/180 Bluesy Jazz 02c.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04b.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fast Jazz/200 Fast Jazz Open Hats 01c.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 03a.mid,valid,test,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/086 Jazzy 01.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Intros/190 Jazz Intro 02.mid,train,valid,test,train,train
+Mega_Pack_GM/Jazz GM/Intros/120 Jazz Intro 06.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/120 Jazz Rock 03a.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 03.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 03 Congas.mid,train,valid,test,train,train
+Mega_Pack_GM/Jazz GM/Intros/120 Jazz Intro 05.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Funky/120 Funky Jazz 03.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/100 Soft Jazz 01c.mid,train,train,valid,train,test
+Mega_Pack_GM/Electronic GM/Breakbeat/086 Jazzy 01c.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 02b.mid,train,test,train,test,valid
+Mega_Pack_GM/Jazz GM/Preview Files/Bluesy Jazz.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 01b.mid,test,train,train,train,train
+Mega_Pack_GM/Jazz GM/Intros/120 Jazz Intro 04.mid,valid,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/200 Bluesy Jazz 03c.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Preview Files/2 Feel Jazz.mid,train,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 2/170 Jazz Ride 42TF 2 Crash.mid,train,train,test,train,test
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock Groove 01.mid,valid,test,train,train,valid
+Mega_Pack_GM/Electronic GM/Breakbeat/135 Jazzy 03b.mid,train,train,train,valid,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 2/170 Jazz Ride 42TF 2 8-Bar.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock Groove 08.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Ride 42TF 1 A.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/100 Soft Jazz 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Bluesy/123 Bluesy Jazz 04 Ride.mid,train,test,train,train,train
+Mega_Pack_GM/Jazz GM/Fusion/120 Jazz Rock 03b.mid,valid,train,test,test,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/122 Soft Jazz 04a.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/186 Bossa Swing/Grooves/Jazz Bossa A.mid,train,train,train,valid,train
+Mega_Pack_GM/Jazz Buddy GM/116 Afro Jazz/Grooves/Afro-Jazz B Ride.mid,train,train,train,train,test
+Mega_Pack_GM/Jazz GM/Preview Files/Slow Jazz.mid,train,train,valid,test,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Hat 42TF 1.mid,train,valid,train,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 01b.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Funky/123 Funky Jazz 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Funky/120 Funky Jazz 03b.mid,valid,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 2/170 Jazz Hat 42TF 2 8-Bar.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 2/170 Jazz Hat 42TF 2.mid,train,train,valid,train,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 02a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/135 Jazzy 03a.mid,train,test,test,train,train
+Mega_Pack_GM/Jazz GM/Slow Jazz/100 Slow Jazz 02b.mid,train,train,train,test,train
+Mega_Pack_GM/Jazz GM/Preview Files/Soft Jazz.mid,train,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Fast Jazz/200 Fast Jazz Open Hats 01.mid,train,valid,valid,test,train
+Mega_Pack_GM/Jazz GM/Soft Jazz/200 Soft Jazz 03a.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 02a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Breakbeat/100 Jazzy 02.mid,train,train,train,valid,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Hat 42TF 1 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz Buddy GM/116 Afro Jazz/Grooves/Afro-Jazz B2 Ride.mid,test,train,valid,train,train
+Mega_Pack_GM/Rock Essentials 2 GM/4-4 Grooves/Shuffles/170 Jazz 42TF 1/170 Jazz Hat 42TF 1 Crash.mid,train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Jazz/134 Jazz Shuffle.mid,test,train,train,valid,test
+Mega_Pack_GM/Variety Pack GM/Jazz/129 Jazz Bongo Beat.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Intros/120 Jazz Intro 07.mid,train,train,train,train,train
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 01b.mid,test,train,train,train,valid
+Mega_Pack_GM/Jazz GM/Loud Jazz/150 Loud Jazz 03c.mid,train,train,test,train,train
+Mega_Pack_GM/Jazz GM/Fusion/142 Jazz Rock 01.mid,train,train,train,test,train
+Mega_Pack_GM/Jazz GM/Bluesy/100 Bluesy Jazz 01b.mid,train,train,train,test,train

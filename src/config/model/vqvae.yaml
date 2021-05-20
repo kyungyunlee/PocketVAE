@@ -1,0 +1,28 @@
+# @package _group_
+model_type: vqvae
+
+# Note model  
+note_hidden_dim: 256
+
+# Vel model 
+vel_hidden_dim : 256
+vel_z_dim : 64
+
+# Mt model 
+mt_hidden_dim : 256
+mt_z_dim : 64
+
+# Skeleton encoding model
+skel_hidden_dim: 128
+skel_encode_dim : 32
+
+n_codes: 64 
+code_dim: 16
+code_length: 8
+
+prior_hidden_dim: 32
+prior_skel_hidden_dim: 16
+prior_skel_z: 4
+
+num_layers : 1
+dropout: 0.5

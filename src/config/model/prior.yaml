@@ -1,0 +1,20 @@
+# @package _group_
+model_type: prior 
+
+# Trained VQVAE model path
+vqvae_model_path: "trained_models/vqvae_allcond/vqvae_allcond_50.pt"
+
+###### MUST BE SAME AS VQVAE ########## 
+skel_hidden_dim: 128
+skel_encode_dim : 32
+
+n_codes: 64
+code_dim: 16
+code_length: 8
+#####################
+
+hidden_dim: 64
+# prior_skel_hidden_dim: 16
+# prior_z : 16
+
+dropout: 0.5

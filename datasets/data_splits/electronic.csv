@@ -1,0 +1,452 @@
+track_path,split0,split1,split2,split3,split4
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 04a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 04c.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 02a.mid,test,train,train,train,test
+Mega_Pack_GM/Electronic GM/House/140 House 06.mid,valid,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Trance/145 Trance 06c.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 01b.mid,valid,train,train,train,valid
+Mega_Pack_GM/Electronic GM/House/140 House 06c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 03c.mid,train,train,valid,test,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04 Snare Riff.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 08b.mid,train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Electronic/142 Techno Beat 2.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/House/143 House 04.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 04.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 07d.mid,train,test,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 14b.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 08b.mid,valid,train,valid,train,valid
+Mega_Pack_GM/Funk HH RB GM/House/145 House 10.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 09 Claps.mid,train,train,test,test,train
+Mega_Pack_GM/Electronic GM/Techno/150 Techno 05b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 10c.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 12c.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 04 8-Bar.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 01 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 01.mid,train,train,train,valid,valid
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 07a.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/150 Techno 05f.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 02a.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/122 Old Skool 09c.mid,valid,train,train,test,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12a.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 05 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 09.mid,train,train,train,valid,train
+Mega_Pack_GM/Funk HH RB GM/House/123 House 02 B.mid,train,valid,train,train,train
+Mega_Pack_GM/Variety Pack GM/Electronic/135 Garage Beat.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 10b.mid,valid,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 08a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 01.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11e.mid,valid,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01 Open Hats.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 11 8-Bar.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 02 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/132 House 03.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/House/143 House 04a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11c.mid,train,train,train,test,test
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 13f.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 02a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 07b.mid,train,valid,train,test,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 12a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 14c.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04b.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/130 House 09 A.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 07.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/132 Old Skool 12c.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Downtempo/089 Downtempo 04b.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 10b.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 10a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/143 House 04c.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 04c.mid,train,train,train,test,valid
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04f.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 10.mid,train,train,train,valid,valid
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 12.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 07.mid,train,train,test,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 15b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/160 Techno 11 Claps.mid,train,valid,valid,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 13b.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/House/150 House 01b.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 13.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 01.mid,test,train,valid,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 07b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/089 Downtempo 04.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 11c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 11.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 06 8-Bar.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 02a.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 10.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 05c.mid,train,train,test,test,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 03b.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04 Toms 2.mid,train,train,valid,train,test
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 03c.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/123 House 02.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 06c.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/150 Techno 05e.mid,train,test,train,train,test
+Mega_Pack_GM/Funk HH RB GM/House/130 House 09.mid,train,test,train,train,valid
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 02.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/128 House 04 A.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04 Claps.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 12c.mid,test,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 12 8-Bar.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 05b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 07c.mid,train,train,test,test,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 09 8-Bar.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 14 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 10b.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 03c.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 01c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 07a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01c.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/089 Downtempo 04c.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11 Cowbell.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/130 House 07 B.mid,train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Electronic/140 Trance Beat 2.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/130 House 05 8-Bar.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 11 8-Bar.mid,train,train,valid,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 16c.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 07a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 02c.mid,train,test,valid,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 03c.mid,train,train,test,train,test
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 13g.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 08 8-Bar.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 01a.mid,train,train,train,test,train
+Mega_Pack_GM/Twisted GM/Bonus/100 Electronic Dual Snare 1/100 Electronic Dual Snare 1 Crash.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 03a.mid,train,test,train,valid,test
+Mega_Pack_GM/Electronic GM/House/160 House 09a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 03.mid,valid,train,test,test,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 08.mid,train,valid,train,valid,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 05 8-Bar.mid,train,valid,train,train,test
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02c.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 12b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 12a.mid,valid,train,valid,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 07 8-Bar.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 04b.mid,train,train,valid,test,train
+Mega_Pack_GM/Electronic GM/Techno/160 Techno 11a.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 08a.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 07.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 07c.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 12.mid,train,valid,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 09c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 03b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/130 House 05a.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 08 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 14a.mid,test,train,test,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 08c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 11b.mid,valid,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 05b.mid,valid,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04 8-Bar.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 07.mid,valid,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 05.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 06a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/160 House 09b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/160 Techno 11 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/130 House 07 A.mid,train,train,valid,train,test
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 04a.mid,valid,test,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 07b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 16b.mid,train,train,test,test,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 11 8-Bar.mid,valid,train,train,valid,valid
+Mega_Pack_GM/Electronic GM/House/150 House 11a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 07 8-Bar.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 01a.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 04.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 05.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 06b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 08 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 03 8-Bar.mid,valid,test,train,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 07a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 07b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 04.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/132 House 03 A.mid,train,train,train,train,valid
+Mega_Pack_GM/Variety Pack GM/Electronic/140 Techno Beat.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 11.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/136 Old Skool 02b.mid,test,train,test,train,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 11a.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 02c.mid,train,train,train,train,valid
+Mega_Pack_GM/Variety Pack GM/Electronic/150 Techno Beat 3.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 02 8-Bar.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 07b.mid,train,test,train,valid,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 15 8-Bar.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Techno/150 Techno 05d.mid,train,train,train,train,test
+Mega_Pack_GM/Funk HH RB GM/House/130 House 08 A.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 01a.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 12 8-Bar.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 02 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02 8-Bar.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/150 Techno 05a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/143 House 04 8-Bar.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 03b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 13a.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 06a.mid,test,test,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 11a.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 07c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/136 Old Skool 02.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/143 House 06.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 02.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 12c.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 03.mid,train,train,train,train,test
+Mega_Pack_GM/Variety Pack GM/Electronic/150 Jungle Displaced.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04e.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 14.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 03a.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/160 House 09 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 02 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 06c.mid,valid,train,test,train,test
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 05c.mid,train,test,valid,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/122 Old Skool 09a.mid,test,valid,train,train,train
+Mega_Pack_GM/Electronic GM/House/130 House 05b.mid,train,valid,train,test,train
+Mega_Pack_GM/Funk HH RB GM/House/123 House 02 A.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02d.mid,train,test,valid,valid,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 03 8-Bar.mid,train,valid,train,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 03.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 02a.mid,train,train,train,valid,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 13 8-Bar.mid,train,train,train,test,valid
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 07a.mid,train,train,train,train,valid
+Mega_Pack_GM/Funk HH RB GM/House/145 House 10 B.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/House/150 House 01c.mid,train,train,valid,train,valid
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 02b.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 02c.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 10a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 09a.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 03c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/135 Techno 03c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12b.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Techno/137 Techno 06 8-Bar.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 10c.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 10 8-Bar.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/132 Old Skool 12.mid,valid,train,train,test,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 16.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/145 Trance 06a.mid,train,valid,test,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 01.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 03 8-Bar.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/160 House 09.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/160 Techno 11 Cowbell.mid,train,test,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04 Snare Ride.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 06a.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 12a.mid,train,train,train,test,train
+Mega_Pack_GM/Twisted GM/Bonus/100 Electronic Dual Snare 2/100 Electronic Dual Snare 2 Crash.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 02b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/089 Downtempo 04 8-Bar.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 09 Cowbell.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 09b.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/143 House 06 A.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 04a.mid,train,train,train,valid,train
+Mega_Pack_GM/Funk HH RB GM/House/123 House 01 B.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 08 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 06.mid,train,train,train,valid,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 04b.mid,train,test,train,test,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 09 8-Bar.mid,train,valid,test,test,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 03 8-Bar.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 10a.mid,valid,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 10c.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 04 8-Bar.mid,valid,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 01b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 01b.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/130 House 09 B.mid,train,test,train,valid,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/130 House 05.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04 8-Bar.mid,valid,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 09.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 06a.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 03.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 01c.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Techno/137 Techno 06a.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 11.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 09c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 05a.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02b.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 03.mid,valid,train,train,test,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 03.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 08b.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/128 House 04 B.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 11b.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 09a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 09 8-Bar.mid,train,train,valid,test,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 02 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 05 8-Bar.mid,train,train,valid,valid,valid
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 08.mid,valid,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 07 8-Bar.mid,train,valid,test,test,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 08.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 07 8-Bar.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 01 8-Bar.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 01 Snare Riff.mid,valid,train,train,train,test
+Mega_Pack_GM/Funk HH RB GM/House/130 House 08 B.mid,test,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 7e.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/122 Old Skool 09.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02d Alter Hats.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/House/150 House 03 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 02.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11d.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/136 Old Skool 02c.mid,train,valid,train,valid,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 05.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 10 8-Bar.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 01c.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/House/150 House 07a.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/House/150 House 07c.mid,train,test,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/123 House 01 A.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 05b.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12d.mid,train,train,valid,valid,valid
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 11a.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 15c.mid,train,train,test,test,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 10 8-Bar.mid,test,test,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 10.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 06b.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12e.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/122 Old Skool 09 8-Bar.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 01c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 03b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11 Cowbell 2.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 03a.mid,train,test,train,train,valid
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 01b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 15a.mid,train,train,valid,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 08b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01a.mid,valid,train,train,test,train
+Mega_Pack_GM/Electronic GM/House/130 House 05c.mid,test,train,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 07b.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Trance/145 Trance 06 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 01 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 11 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 10c.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 10b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 12 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 10d.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/128 House 05 B.mid,train,train,train,test,train
+Mega_Pack_GM/Funk HH RB GM/House/123 House 01.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/136 Old Skool 02 8-Bar.mid,test,test,valid,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 06b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 03a.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 08a.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 07.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 01c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02 Snare Riff.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 07 8-Bar.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Techno/137 Techno 06.mid,valid,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 11.mid,test,train,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 12.mid,valid,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01b.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/089 Downtempo 04a.mid,train,train,train,test,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 10.mid,train,train,train,train,test
+Mega_Pack_GM/Funk HH RB GM/Preview Files/House.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 09b.mid,train,test,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 07.mid,train,valid,train,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 09b.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 03 8-Bar.mid,train,train,test,valid,train
+Mega_Pack_GM/Funk HH RB GM/House/145 House 10 A.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 08a.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 10a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 06 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11b.mid,train,test,train,test,train
+Mega_Pack_GM/Electronic GM/Techno/137 Techno 06b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 01b.mid,train,valid,train,valid,train
+Mega_Pack_GM/Electronic GM/Techno/135 Techno 03b.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/House/140 House 08 8-Bar.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Old Skool/132 Old Skool 12 8-Bar.mid,test,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/122 Old Skool 09b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 11c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 06.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 04c.mid,train,valid,train,train,test
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 02b.mid,test,train,test,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 06 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 13c.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 08b.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 09a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 08a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 10a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12.mid,train,valid,train,test,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 09 8-Bar.mid,test,train,train,test,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 05a.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/House/140 House 02.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 12f.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04d.mid,train,valid,train,test,train
+Mega_Pack_GM/Twisted GM/Bonus/120 Electronic 42TF/120 Electronic 42TF.mid,valid,test,train,valid,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 04b.mid,valid,train,train,test,train
+Mega_Pack_GM/Twisted GM/Bonus/100 Electronic Dual Snare 1/100 Electronic Dual Snare 1.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 01.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 06b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 11b.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04a.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 11c.mid,train,train,test,train,train
+Mega_Pack_GM/Variety Pack GM/Electronic/140 Trance Beat.mid,train,valid,train,valid,train
+Mega_Pack_GM/Electronic GM/House/150 House 01 8-Bar.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/House/140 House 12b.mid,train,valid,valid,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/143 House 06 B.mid,train,train,test,test,test
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 06 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 08d.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 09.mid,train,test,train,train,test
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 16a.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/Techno/135 Techno 03d.mid,train,valid,train,test,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 11c.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 08c.mid,train,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 03a.mid,test,valid,valid,test,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01 Open Hats 2.mid,train,test,test,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 08c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/160 House 09c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 08.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/069 Downtempo 01 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/132 Old Skool 12b.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/House/150 House 01.mid,train,test,train,valid,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 08.mid,train,train,test,valid,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 01 8-Bar.mid,train,test,valid,train,valid
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 05a.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 08 8-Bar.mid,train,train,train,valid,valid
+Mega_Pack_GM/Funk HH RB GM/House/132 House 03 B.mid,train,train,test,train,train
+Mega_Pack_GM/Funk HH RB GM/House/128 House 05.mid,test,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/142 Techno 04 Toms.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 16 8-Bar.mid,valid,train,train,valid,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 07c.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/House/140 House 08.mid,valid,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/100 Electronic Dual Snare 2/100 Electronic Dual Snare 2.mid,test,train,train,train,test
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 04c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/145 Trance 06b.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 05c.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/140 Old Skool 07c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 10b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 10c.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 10b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/160 Techno 11.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 08c.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 15.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 02.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 10 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 10a.mid,valid,test,valid,train,train
+Mega_Pack_GM/Electronic GM/Garage/135 Garage 03b.mid,train,train,train,test,train
+Mega_Pack_GM/Electronic GM/Jungle/160 Jungle 11b.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 08a.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 07 8-Bar.mid,train,train,test,train,train
+Mega_Pack_GM/Electronic GM/Techno/140 Techno 02a.mid,test,valid,valid,test,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 03a.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Old Skool/136 Old Skool 02a.mid,train,train,valid,train,valid
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 11 8-Bar.mid,valid,train,test,train,test
+Mega_Pack_GM/Electronic GM/House/150 House 03c.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 06.mid,train,train,train,train,test
+Mega_Pack_GM/Electronic GM/House/140 House 02c.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 08c.mid,train,test,test,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 03b.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Techno/160 Techno 11 Snares.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Jungle/170 Jungle 04 8-Bar.mid,train,valid,train,test,train
+Mega_Pack_GM/Funk HH RB GM/House/130 House 07.mid,train,train,train,train,train
+Mega_Pack_GM/Funk HH RB GM/House/128 House 04.mid,train,train,train,test,train
+Mega_Pack_GM/Funk HH RB GM/House/128 House 05 A.mid,train,valid,valid,train,train
+Mega_Pack_GM/Electronic GM/House/143 House 04b.mid,test,train,train,train,test
+Mega_Pack_GM/Electronic GM/Old Skool/150 Old Skool 10 8-Bar.mid,test,train,train,train,train
+Mega_Pack_GM/Electronic GM/House/150 House 01a.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 12b.mid,train,valid,train,valid,test
+Mega_Pack_GM/Funk HH RB GM/House/130 House 08.mid,train,train,valid,train,train
+Mega_Pack_GM/Electronic GM/House/140 House 10.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/140 Trance 01 8-Bar.mid,train,train,train,train,train
+Mega_Pack_GM/Electronic GM/Trance/145 Trance 06.mid,train,valid,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 06c.mid,valid,train,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 02c.mid,train,train,train,train,valid
+Mega_Pack_GM/Electronic GM/Old Skool/132 Old Skool 12a.mid,train,test,train,valid,train
+Mega_Pack_GM/Twisted GM/Bonus/120 Electronic 42TF/120 Electronic 42TF Crash.mid,train,test,train,train,train
+Mega_Pack_GM/Electronic GM/Downtempo/080 Downtempo 09a.mid,train,train,train,train,train

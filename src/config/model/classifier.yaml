@@ -1,0 +1,6 @@
+# @package _group_
+model_type: classifier
+num_layers: 1
+hidden_dim : 64
+dropout : 0.5
+wandb_project_name: "drum_classification"

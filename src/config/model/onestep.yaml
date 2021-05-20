@@ -1,0 +1,7 @@
+# @package _group_
+model_type: onestep
+hidden_dim: 128 
+z_dim : 16
+
+num_layers : 2
+dropout: 0.5

@@ -1,0 +1,1132 @@
+track_path,split0,split1,split2,split3,split4
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 08.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 094 - Double time.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 04.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 4.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02A.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 06.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 01.mid",train,valid,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/100 Hip Hop 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 07.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 Crash.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_04.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 F2.mid",valid,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 5.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_02.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 01.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,train,train,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 4.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 11.mid",test,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 04.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,valid,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 3.mid,train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",test,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 01.mid",train,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Preview Files/91@BONUS/076 Hip Hop Swung 01.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 F1.mid",train,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/070 Hip Hop 1.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",valid,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",valid,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 05.mid",train,valid,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 F1.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,test
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 06.mid,train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 F2.mid",train,valid,train,train,test
+Mega_Pack_GM/Twisted GM/Bonus/100 Hip Hop Straight/100 Hip Hop Straight 2B.mid,train,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,train,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/06@Hip Hop MainBeat 6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 09.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 098a - Triplet feel.mid",train,train,test,test,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_01.mid",test,test,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 09.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/93@PREVIEW FILES/91@BONUS/076 Hip Hop Swung 01.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/08@Hip Hop MainBeat 8.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 10.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",test,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 5.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 06.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 4.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",train,valid,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 11.mid",train,train,test,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 10.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 10.mid",valid,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03.mid",train,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 01.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/06@Hip Hop MainBeat 6.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/02@Hip Hop MainBeat 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 06.mid",valid,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 05.mid",train,valid,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 06.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",test,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 F5.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 05.mid",train,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 F6.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_06.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/93@PREVIEW FILES/91@BONUS/072 Hip Hop Swung 02.mid",train,valid,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 04.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 05.mid",valid,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 004/Hip Hop Beat 004 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 07.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 04.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/100 Hip Hop Classic.mid,train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 04.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/070 Hip Hop 6.mid",test,test,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02A.mid",train,train,train,train,test
+Mega_Pack_GM/Variety Pack GM/Hip Hop/088 Hip Hop 5.mid,valid,train,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 100a - Triplet feel.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 F6.mid",train,train,train,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_04.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",valid,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 03.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",test,train,train,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 06.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 F6.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",test,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,train,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",valid,valid,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 010/Hip Hop Beat 010 _V__G_ _C_Hip Hop_G_.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,train,train,valid
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 07.mid,train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Preview Files/91@BONUS/100 Hip Hop Straight 02.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 08.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 4.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 3.mid",train,train,valid,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 088 - Swing Feel.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,test,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 10.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 F3.mid",test,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 011/Hip Hop Beat 011 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/088 Hip Hop 7.mid,train,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 06.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 7.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 F5.mid",train,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",test,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 08.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 135 - Straight Feel.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 02.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 016/Hip Hop Beat 016 _V_HH Open _C_Hip Hop.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/085 Hip Hop 11.mid",train,valid,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 1.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02B.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 7.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 F6.mid",train,train,train,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 10.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 08.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 5.mid",test,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 Crash.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_05.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 12.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 008/Hip Hop Beat 008 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,test,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 08.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000610@Synthetic_Drums_2/Un_Skool HipHop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 03.mid",train,train,train,valid,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/085 Hip Hop 1.mid,valid,train,train,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 F2.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 09.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,valid,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",test,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid,train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 Crash.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,valid
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 10.mid,test,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 F4.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 05.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 F5.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 04.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 03.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02.mid",valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 04.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 6.mid",valid,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,test,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 4.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Preview Files/91@BONUS/075 Hip Hop Straight 03.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 10.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02.mid",train,test,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 01.mid,test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 019/Hip Hop Beat 019 _V_HH Open _C_Hip Hop.mid",train,test,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 11.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/070 Hip Hop 5.mid",train,train,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 13.mid",train,train,train,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 017/Hip Hop Beat 017 _V_HH Open _C_Hip Hop.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 Crash.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 07.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 07.mid",train,valid,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 05.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 006/Hip Hop Beat 006 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 09.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01.mid",train,train,valid,train,train
+Mega_Pack_GM/Twisted GM/Bonus/076 Hip Hop Swung/076 Hip Hop Swung 1 Crash.mid,valid,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 008/Hip Hop Beat 008 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 03.mid",train,valid,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_03.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 5.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,test,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 F6.mid",train,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_03.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01.mid",valid,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 12.mid",train,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 04.mid",train,train,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",test,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 Crash.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",train,train,train,valid,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 018/Hip Hop Beat 018 _V_HH Open _C_Hip Hop.mid",train,train,valid,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 12.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Preview Files/91@BONUS/072 Hip Hop Swung 02.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 2.mid",test,test,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",valid,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/10@Hip Hop MainBeat 10.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 F5.mid",test,train,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 07.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",test,valid,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02B.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 06.mid,train,train,valid,train,train
+Mega_Pack_GM/Twisted GM/Bonus/076 Hip Hop Swung/076 Hip Hop Swung 1.mid,test,train,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_08.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/091@PREVIEW FILES/Bonus/Hip Hop/070 Hip Hop.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 08.mid",train,train,test,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 013/Hip Hop Beat 013 _V__G_ _C_Hip Hop_G_.mid",train,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@DRUMS MISC/hiphopu3.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",train,valid,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 F4.mid",test,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 06.mid",test,train,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_07.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid,train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 13.mid,train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 Crash.mid",train,valid,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 10.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 5.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",valid,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",train,test,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 01.mid",train,test,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",valid,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 11.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/04@Hip Hop MainBeat 4.mid",valid,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 011/Hip Hop Beat 011 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 05.mid,valid,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/04@Hip Hop MainBeat 4.mid",train,test,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",valid,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_08.mid",valid,test,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 F2.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 11.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/93@PREVIEW FILES/91@BONUS/100 Hip Hop Straight 02.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Preview Files/91@BONUS/076 Hip Hop Swung 01.mid",valid,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 11.mid",test,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 13.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 07.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,valid,train,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/088 Hip Hop 6.mid,train,valid,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 018/Hip Hop Beat 018 _V__G_ _C_Hip Hop_G_.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 10.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 F1.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",test,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 01.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 F1.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 06.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 04.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 08.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 F5.mid",valid,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 001/Hip Hop Beat 001 _V__G_ _C_Hip Hop_G_.mid",test,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 F4.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_11.mid",train,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,test,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 05.mid",test,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 012/Hip Hop Beat 012 _V_HH Open _C_Hip Hop.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 Crash.mid",train,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,valid,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 5.mid,valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 Crash.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 F4.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 F5.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 09.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 F6.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 1.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 08.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 02.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 04.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 F3.mid",test,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,test,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 F1.mid",train,train,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 020/Hip Hop Beat 020 _V__G_ _C_Hip Hop_G_.mid",train,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 7.mid",valid,train,train,test,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 03.mid",train,valid,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 6.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_08.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 4.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/93@PREVIEW FILES/91@BONUS/088 Hip Hop Straight 01.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 09.mid",test,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 F5.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 04.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 08.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 F2.mid",valid,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 001/Hip Hop Beat 001 _V_HH Open _C_Hip Hop.mid",train,test,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 08.mid,train,train,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 003/Hip Hop Beat 003 _V__G_ _C_Hip Hop_G_.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 F3.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 088 - 1-8 note feel-tom.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 4.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 6.mid",test,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 F6.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/10@Hip Hop MainBeat 10.mid",valid,train,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 04.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 F1.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 10.mid",test,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 05.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",test,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 1.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_01.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 F6.mid",train,valid,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",test,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",test,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 F4.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_03.mid",valid,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 04.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 F5.mid",train,valid,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,test,train,train,valid
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 02.mid,train,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/088 Hip Hop Straight/088 Hip Hop Straight 1A.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",train,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/05@Hip Hop MainBeat 5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 4.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 04.mid",train,test,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 04.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",test,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 F6.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 Crash.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/070 Hip Hop 2.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 7.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 01.mid",valid,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 08.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 007/Hip Hop Beat 007 _V__G_ _C_Hip Hop_G_.mid",train,valid,test,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 F1.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 04.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,test,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/01@Hip Hop MainBeat 1.mid",train,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 07.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 06.mid",train,train,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/07@Hip Hop MainBeat 7.mid",valid,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",train,train,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 006/Hip Hop Beat 006 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/070 Hip Hop 4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 02.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 F3.mid",test,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 04.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_02.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 009/Hip Hop Beat 009 _V__G_ _C_Hip Hop_G_.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 07.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 09.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,valid
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 05.mid,train,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 12.mid",test,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 08.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 02.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/091@PREVIEW FILES/Bonus/Hip Hop/085 Hip Hop.mid",test,test,test,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 02.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",test,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",test,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01A.mid",test,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 04.mid",train,train,train,valid,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 08.mid,test,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 13.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 015/Hip Hop Beat 015 _V__G_ _C_Hip Hop_G_.mid",train,test,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_04.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 11.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 F3.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01A.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,test,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 7.mid,test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 02.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 02.mid,train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/09@Hip Hop MainBeat 9.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 3.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 F3.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 02.mid",valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 F3.mid",train,valid,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 F4.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/100 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 003/Hip Hop Beat 003 _V_HH Open _C_Hip Hop.mid",train,train,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_05.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 01.mid",test,test,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 F3.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,test,train,train,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/092 Hip Hop 3.mid,valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 Crash.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_03.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/070 Hip Hop 6.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 07.mid",train,valid,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 01.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",test,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 03.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 01.mid,train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 7.mid",train,train,train,test,test
+Mega_Pack_GM/Twisted GM/Bonus/075 Hip Hop Straight/075 Hip Hop Straight 3 Crash.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 F4.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,valid,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 02.mid",train,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/072 Hip Hop Swung 02 F2.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 065 - G-Funk.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 019/Hip Hop Beat 019 _V__G_ _C_Hip Hop_G_.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",test,test,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 06.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/088 Hip Hop Straight 01 F4.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01A.mid",train,train,train,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 05.mid",train,valid,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 F1.mid",train,test,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_07.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 13.mid",train,train,train,train,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/090 Hip Hop 2.mid,train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 03.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 09.mid,train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 03.mid,train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/070 Hip Hop 5.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/075 Hip Hop Straight/075 Hip Hop Straight 3.mid,test,train,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@MIDI DRUMS/Hiphop.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 017/Hip Hop Beat 017 _V__G_ _C_Hip Hop_G_.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 12.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 04.mid,train,train,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_10.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 Crash.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 F3.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 04.mid",train,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 03.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,valid,train,train
+Mega_Pack_GM/Twisted GM/Bonus/088 Hip Hop Straight/088 Hip Hop Straight 1 Crash.mid,train,valid,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 020/Hip Hop Beat 020 _V_HH Open _C_Hip Hop.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",valid,valid,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 07.mid",valid,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_04.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 05.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",valid,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_07.mid",train,valid,valid,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 Crash.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 12.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",train,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 13.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 09.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 10.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/070 Hip Hop 2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 10.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",valid,test,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 6.mid",train,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/072 Hip Hop Swung/072 Hip Hop Swung 2.mid,valid,test,test,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",valid,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 6.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 F2.mid",valid,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 04.mid",train,valid,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/075 Hip Hop Straight 03 F4.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 F3.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,test,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02A.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 07.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 08.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 10.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/01@Hip Hop MainBeat 1.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/076 Hip Hop Swung 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,test,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",valid,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",test,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",train,test,train,test,valid
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 07.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 01.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 11.mid",valid,valid,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",valid,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 12.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_02.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_06.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 11.mid,train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/070 Hip Hop 6.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 4.mid",train,test,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 10.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 3.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 F3.mid",valid,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 002/Hip Hop Beat 002 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 Crash.mid",train,valid,train,test,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 12.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",test,valid,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/088 Hip Hop Straight/088 Hip Hop Straight 1.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",train,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/100 Hip Hop Straight/100 Hip Hop Straight 2.mid,train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01 Crash.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Preview Files/91@BONUS/100 Hip Hop Straight 02.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 03.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 F3.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02B.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 01.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 F4.mid",train,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 005/Hip Hop Beat 005 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/02@Hip Hop MainBeat 2.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 F2.mid",valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,valid,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 Crash.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 09.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",valid,train,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 096 - Straight Feel.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,test,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/031@GROOVES/hiphop3_105bpm_07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,test,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Preview Files/91@BONUS/075 Hip Hop Straight 03.mid",train,valid,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 13.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 04.mid",valid,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/075 Hip Hop Straight 03 F2.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 096 - Swing Feel.mid",train,train,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 02.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",test,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 F5.mid",train,train,test,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 F1.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/100 Hip Hop Straight 02 F5.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 F1.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 082 - Straight 8ths.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 1.mid",valid,train,train,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,valid,valid,valid
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 12.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/072 Hip Hop Swung 02 F5.mid",train,train,train,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 F6.mid",train,valid,test,train,train
+Mega_Pack_GM/RB GM/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid,train,train,train,train,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1a_95bpm_08.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02A.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/100 Hip Hop 12.mid",train,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/09@Hip Hop MainBeat 9.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 01.mid",valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/085 Hip Hop 09.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 F4.mid",valid,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",train,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 016/Hip Hop Beat 016 _V__G_ _C_Hip Hop_G_.mid",train,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 02.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 2.mid,train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 10.mid",valid,train,test,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 004/Hip Hop Beat 004 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 Crash.mid",train,valid,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 F2.mid",valid,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 100 - Upbeat 8ths.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 13.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_05.mid",test,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 11.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/100 Hip Hop Straight 02 F3.mid",train,test,train,train,train
+Mega_Pack_GM/Variety Pack GM/Hip Hop/088 Hip Hop 4.mid,train,train,test,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/00201@CAKEWALK DRUM STYLES/Hip Hop/Hip Hop 103 - Funky 16ths.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 013/Hip Hop Beat 013 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/100 Hip Hop 10.mid,train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 F6.mid",test,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Preview Files/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 014/Hip Hop Beat 014 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/075 Hip Hop Straight 03 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 02.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/076 Hip Hop Swung 01 F1.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 13.mid",test,train,train,valid,test
+Mega_Pack_GM/Twisted GM/Bonus/100 Hip Hop Straight/100 Hip Hop Straight 2 Crash.mid,train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/085 Hip Hop 02.mid",test,test,valid,train,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/085 Hip Hop 11.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 05.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 F2.mid",train,train,valid,valid,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 1.mid,train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Bonus/Hip Hop/085 Hip Hop 06.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Preview Files/91@BONUS/072 Hip Hop Swung 02.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02B.mid",train,valid,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/03@Hip Hop MainBeat 3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 F1.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 02.mid",test,test,train,test,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 005/Hip Hop Beat 005 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Preview Files/Bonus/Hip Hop/100 Hip Hop.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 11.mid",train,train,test,valid,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",valid,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 05.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",test,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/085 Hip Hop 01.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Preview Files/91@BONUS/088 Hip Hop Straight 01.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/100 Hip Hop Straight 02 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/085 Hip Hop 06.mid",train,test,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD4/Groove Monkee Twisted SSD.lib/Twisted Bonus.sng/Hip Hop.prt/075 Hip Hop Straight 03 F2.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 009/Hip Hop Beat 009 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/085 Hip Hop 10.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop2_95bpm_12.mid",train,train,train,valid,test
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 002/Hip Hop Beat 002 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/088 Hip Hop Straight 01 F2.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/93@PREVIEW FILES/91@BONUS/075 Hip Hop Straight 03.mid",train,valid,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01A.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/070 Hip Hop 5.mid",test,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/088 Hip Hop Straight 01 F5.mid",valid,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 3.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/085 Hip Hop 09.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 F2.mid",train,test,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/076 Hip Hop Swung 01 F2.mid",train,valid,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/075 Hip Hop Straight 03 F2.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/076 Hip Hop Swung 01 F3.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/100 Hip Hop 06.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/070 Hip Hop 6.mid",test,train,train,train,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 015/Hip Hop Beat 015 _V_HH Open _C_Hip Hop.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 04.mid",valid,test,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Session Drummer/Bonus/Hip Hop/100 Hip Hop 04.mid",train,test,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/072 Hip Hop Swung 02 Crash.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Reason/NNXT Kits/Bonus/Hip Hop/100 Hip Hop 05.mid",test,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/081@HIP HOP/070 Hip Hop 5.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/08@Hip Hop MainBeat 8.mid",train,train,valid,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/100 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Preview Files/Bonus/Hip Hop/070 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02 F3.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 1.mid",valid,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",train,train,train,valid,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 007/Hip Hop Beat 007 _V_HH Open _C_Hip Hop.mid",train,train,valid,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/05@Hip Hop MainBeat 5.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,valid,valid,valid
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000410@HIP HOP/021@GROOVES/hiphop1b_95bpm_02.mid",train,test,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/100 Hip Hop 09.mid",train,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/072 Hip Hop Swung/072 Hip Hop Swung 2 Crash.mid,test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000051@EZX_ELECTRONIC/06@HIP HOP 98 BPM/07@Hip Hop MainBeat 7.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,valid,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/088 Hip Hop Straight 01 F5.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 Crash.mid",train,train,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Preview Files/91@BONUS/088 Hip Hop Straight 01.mid",train,valid,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/100 Hip Hop Straight 02B.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 07.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 11.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 12.mid",valid,test,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000047@EZXELECTRONIC/06@HIP HOP 98 BPM/03@Hip Hop MainBeat 3.mid",train,train,test,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 DFH/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",valid,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Bonus/Hip Hop/070 Hip Hop 1.mid",train,test,train,valid,train
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 4.mid,valid,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",test,train,test,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Preview Files/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GA/Bonus/Hip Hop/100 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/100 Hip Hop Straight 02 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/075 Hip Hop Straight 03 F1.mid",train,train,train,train,train
+Mega_Pack_GM/Twisted GM/Bonus/100 Hip Hop Straight/100 Hip Hop Straight 2A.mid,train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,train,train,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02 F2.mid",train,test,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Live SD/Bonus/Hip Hop/085 Hip Hop 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 LS EXT/Bonus/Hip Hop/070 Hip Hop 1.mid",test,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/088 Hip Hop Straight 01 F1.mid",valid,train,train,valid,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/076 Hip Hop Swung 01 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 FPC/Bonus/Hip Hop/100 Hip Hop 13.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Single Track/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",train,train,train,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Grooves/Bonus/088 Hip Hop Straight 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 F1.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 F3.mid",train,train,test,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 09.mid",train,test,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Grooves/Bonus/075 Hip Hop Straight 03 F3.mid",train,test,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/070 Hip Hop 4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/100 Hip Hop Straight 02 F6.mid",train,train,valid,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 03.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 GM/Single Track/Bonus/Hip Hop/100 Hip Hop 06.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 014/Hip Hop Beat 014 _V__G_ _C_Hip Hop_G_.mid",test,train,test,train,test
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/076 Hip Hop Swung 01 F6.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD4/Groove Monkee RB1 SSD.lib/Bonus Grooves.sng/Hip Hop.prt/100 Hip Hop 12.mid",valid,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted DFH/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/100 Hip Hop Straight 02 Crash.mid",test,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 010/Hip Hop Beat 010 _V_HH Open _C_Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted SSD3.5/Grooves/Bonus/072 Hip Hop Swung 02.mid",train,train,valid,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,test,train,test,valid
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Preview Files/Grooves/Bonus/075 Hip Hop Straight 03.mid",train,train,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GA/Grooves/Bonus/072 Hip Hop Swung 02 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Superior/91@BONUS/100 Hip Hop Straight 02 F5.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted FPC/Grooves/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 SSD3.5/Preview Files/Bonus/Hip Hop/085 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Reason/NN-XT Kits/Preview Files/Grooves/Bonus/076 Hip Hop Swung 01.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Session Drummer/Grooves/Bonus/076 Hip Hop Swung 01.mid",test,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/072 Hip Hop Swung 02 F6.mid",train,test,train,test,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Studio Drummer/Bonus/075 Hip Hop Straight 03 F4.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/088 Hip Hop Straight 01 F2.mid",train,valid,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Studio Drummer/Bonus/Hip Hop/085 Hip Hop 08.mid",train,train,test,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted Live SD/Grooves/Bonus/088 Hip Hop Straight 01 F3.mid",train,train,train,valid,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted LS Ext/Preview Files/Grooves/Bonus/088 Hip Hop Straight 01.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - RB1/GM - RB1 Superior/091@PREVIEW FILES/Bonus/Hip Hop/100 Hip Hop.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted GM/Type 0/Grooves/Bonus/100 Hip Hop Straight 02.mid",train,train,train,train,train
+"reddit_drums/GM MIDI Pack [360,000 files]/GM - Twisted/GM - Twisted MOR/Bonus/076 Hip Hop Swung 01 F1.mid",train,train,train,train,train
+"reddit_drums/Superior Drummer 2 Drum Midi [425,000 files]/000110@MIDIPACK - HipHop/Hip Hop Beat 012/Hip Hop Beat 012 _V__G_ _C_Hip Hop_G_.mid",train,train,train,train,test
+Mega_Pack_GM/RB GM/Bonus/Hip Hop/070 Hip Hop 6.mid,train,test,valid,train,train
