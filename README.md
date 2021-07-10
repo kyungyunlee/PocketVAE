@@ -1,16 +1,15 @@
 # PocketVAE
 
-*Code for "PocketVAE: A Two-Step Model for Groove Generation and Control", Kyungyun Lee, Wonil Kim, Juhan Nam, May 2021*
+This is a drum groove generation and control model, which uses VQ-VAE to first generate the note scores (without any playing style) and then uses VAEs to add velocity and microtiming values on top of the generated note scores. 
+
 
 ## Links 
-* [Paper]() 
-* [Accompanying website]()
-
-## Demo
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19d9BwENCxiokZBh6qtwLO8siDIzZhrWc#scrollTo=7JfM7bEFtoXV&forceEdit=true&sandboxMode=true)
+* [Link coming soon - Paper]() : Presented as my master's thesis in June 2021  
+* [WIP - Accompanying website]()
 
 
 ## Setup
+Clone the repo first and `cd` into the directory.  
 ```
 pip install -e .  
 pip install -r requirements.txt
@@ -33,6 +32,7 @@ model_type
 ### 1. Prepare dataset & preprocess
 
 ### Datasets 
+I apologize in advance that some of the  data mentioned below are not publicly available. However, I believe that the results will not degrade too much as long as you don't use the "genres" to generate with control.  
 
 * [GrooveMIDI](https://magenta.tensorflow.org/datasets/groove)
 * [Reddit drums](https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/) (Filtered extensively)
@@ -67,7 +67,6 @@ use_time_cond=True (default=False)
 cd src
 python evaluate.py model=vqvae model_name=some_model_name
 ```
-
 
 
 
