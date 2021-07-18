@@ -4,7 +4,7 @@ This is a drum groove generation and control model, which uses VQ-VAE to first g
 
 
 ## Links 
-* [Link coming soon - Paper]() : Presented as my master's thesis in June 2021  
+* [Paper](https://arxiv.org/abs/2107.05009) : Presented as my master's thesis in June 2021  
 * [WIP - Accompanying website]()
 
 
@@ -72,7 +72,12 @@ python evaluate.py model=vqvae model_name=some_model_name
 
 ## Cite 
 ```
-NOT YET
+@article{lee2021pocketvae,
+  title={PocketVAE: A Two-step Model for Groove Generation and Control},
+  author={Lee, Kyungyun and Kim, Wonil and Nam, Juhan},
+  journal={arXiv preprint arXiv:2107.05009},
+  year={2021}
+}
 ```
 
 
